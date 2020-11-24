@@ -1,0 +1,2 @@
+.snake{display:grid;grid-template-columns:repeat(3,1fr)}.snake__body--1{background:red}.snake__body--2{background:#c00}.snake__body--3{background:#900}.snake__body--4{background:#600}.snake__body--5{background:#300}.snake__body--6{background:#000}@media screen and (max-width:899px){.snake{grid-template-columns:repeat(2,1fr)}}@media screen and (max-width:599px){.snake{grid-template-columns:1fr}}body{margin:0;font-family:Arial,sans-serif;font-size:100px;line-height:300px;color:#fff}.block{text-align:center}
+/*# sourceMappingURL=main.5a3e6cae.css.map */
